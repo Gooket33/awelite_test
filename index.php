@@ -16,7 +16,9 @@ $APPLICATION->SetTitle("Каталог книг");
 		"CACHE_TYPE" => "A",
 		"CACHE_TIME" => "3600"
 	)
-);?>
+);
+// I love Bitrix :D
+?>
 <hr />
 
 <?$APPLICATION->IncludeComponent(
